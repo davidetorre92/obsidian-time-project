@@ -1,0 +1,31 @@
+/* === Time Dashboard Styling === */
+
+.tdb-container {
+  font-family: var(--font-default);
+  background-color: var(--background-primary);
+  color: var(--text-normal);
+  padding: 1rem;
+  border-radius: 10px;
+}
+
+.tdb-title {
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+  color: var(--text-accent);
+}
+
+.tdb-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+.tdb-table th, .tdb-table td {
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding: 6px;
+}
+
+.tdb-table th {
+  text-align: left;
+  color: var(--text-faint);
+}

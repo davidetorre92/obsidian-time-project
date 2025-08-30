@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "f69601da43918f2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d8ea7bc5bd42b2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a41e7bf4cf41d736",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "examples/2025-08-30.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-30"
+            }
+          },
+          {
+            "id": "25fd646d7e6f60bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/_utils/DailyTableTemplate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DailyTableTemplate"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e8ccba28ee3a54e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7823e4d46288f2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a544b2100787be67",
+    "type": "split",
+    "children": [
+      {
+        "id": "19109ab6a2ecb712",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddb5cfa60e122401",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2c2ada0d31e15189",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3bfd02c03b4c35ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d91b0ea9e3709c2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d3794a9a3cebdeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94531d66ffc7918d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dashboard"
+            }
+          },
+          {
+            "id": "8de86dec5c748670",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "src/Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Dashboard"
+            }
+          },
+          {
+            "id": "da288662591bc458",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2bd60898e223dd18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/Dashboard.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "d7823e4d46288f2d",
+  "lastOpenFiles": [
+    "examples/2025-08-30.md",
+    "src/Dashboard.md",
+    "examples/2025-08-29.md",
+    "src/_utils/DailyTableTemplate.md",
+    "src/_utils/time_dashboard_config.md",
+    "examples/2025-08-28.md",
+    "src/_utils/time_data_processor.js",
+    "src/_utils/_test.js",
+    "src/_utils",
+    "_utils/time_data_processor.js",
+    "_utils/time_dashboard_config.md",
+    "_utils/_test.js",
+    "_utils",
+    "examples/_utils/time_data_processor.js",
+    "examples/_utils/time_dashboard_config.md",
+    "examples/_utils/_test.js",
+    "examples/_utils"
+  ]
+}
